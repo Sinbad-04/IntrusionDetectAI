@@ -6,7 +6,7 @@ The tool processes an input video and produces an output video with bounding box
 
 ---
 
-https://user-images.githubusercontent.com/12345678/abcdefg-hijk.mp4
+
 
 
 
@@ -88,6 +88,7 @@ python test.py
 ```
 
 The processed video will be saved in the project folder with bounding boxes and object counts overlayed.
+
 
 
 
