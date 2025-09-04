@@ -26,8 +26,15 @@ The tool processes an input video and produces an output video with bounding box
   ---
 
   🚀 Installation & Quick Start
+
+  
 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/Sinbad-04/VisionCount.git
 cd VisionCount
+```
+
+2️⃣ Install dependencies
+```bash
+pip install -r requirements.txt
 ```
