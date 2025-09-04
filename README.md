@@ -38,3 +38,23 @@ cd VisionCount
 ```bash
 pip install -r requirements.txt
 ```
+3️⃣ Run the main script
+
+Process a video and export the result:
+```bash
+python main.py --input input_video.mp4 --output output_video.mp4
+```
+4️⃣ Run the test/demo script
+```bash
+python test.py
+```
+
+📂 Project Structure
+VisionCount/
+├── main.py              # Main script: video processing & object counting
+├── test.py              # Test/demo script
+├── model.pt             # Pre-trained model
+├── output_video.mp4     # Sample output video
+├── output_video.avi     # Alternative sample output
+├── requirements.txt     # Dependency list
+└── README.md            # This documentation
