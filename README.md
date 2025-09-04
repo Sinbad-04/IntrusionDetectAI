@@ -12,3 +12,22 @@ The tool processes an input video and produces an output video with bounding box
 - 🧪 Separate test/demo script for quick validation
 
 ---
+
+## 🛠️ Requirements
+
+- Python **3.8+**
+- Required libraries:
+  - `torch`
+  - `opencv-python`
+  - `numpy`
+  - `matplotlib` *(optional, for visualization)*
+  - `tqdm` *(for progress bar)*
+ 
+  ---
+
+  🚀 Installation & Quick Start
+1️⃣ Clone the repository
+```bash
+git clone https://github.com/Sinbad-04/VisionCount.git
+cd VisionCount
+```
