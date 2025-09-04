@@ -52,9 +52,33 @@ python test.py
 📂 Project Structure
 VisionCount/
 ├── main.py              # Main script: video processing & object counting
+
 ├── test.py              # Test/demo script
+
 ├── model.pt             # Pre-trained model
+
 ├── output_video.mp4     # Sample output video
+
 ├── output_video.avi     # Alternative sample output
+
 ├── requirements.txt     # Dependency list
+
 └── README.md            # This documentation
+
+
+---
+📝 Usage Examples
+
+Count objects in a video:
+```bash
+
+python main.py --input street.mp4 --output result.mp4
+```
+
+Quick demo run:
+```bash
+python test.py
+```
+
+The processed video will be saved in the project folder with bounding boxes and object counts overlayed.
+
