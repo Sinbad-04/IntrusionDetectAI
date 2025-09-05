@@ -3,6 +3,9 @@
  **IntrusionDetectAI** is a system that uses **YOLOv8** to detect intrusions or suspicious objects in video streams.  
 It can process input videos, run object detection, and generate annotated output videos.
 
+<img width="1598" height="900" alt="image" src="https://github.com/user-attachments/assets/5d712add-9f4c-49f4-9d73-f12463728117" />
+
+
 ## 🚀 Features
 - Real-time intrusion/object detection using `yolov8s.pt`
 - Processes video input and outputs annotated results
@@ -53,5 +56,6 @@ Fork the repository and create a new branch
 Submit a pull request with a clear description
 
 Make sure to test before submitting
+
 
 
